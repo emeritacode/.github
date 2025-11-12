@@ -1,7 +1,3 @@
-# 🏛️ EmeritaCode · Excelencia hecha Software
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollo+con+Excelencia;Código+Escalable+y+Ético;Tu+visión,+nuestra+misión;SaaS,+Webs+y+mucho+más;¡Creamos+tecnología+con+propósito!)
-
 ![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:381a06,10:a5150d&height=200&section=header&text=EmeritaCode&fontSize=50&fontAlignY=35&descAlignY=60&animation=fadeIn)
 
 ---
