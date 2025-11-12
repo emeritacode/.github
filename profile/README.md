@@ -22,14 +22,6 @@ Ofrecemos soluciones digitales completas para particulares, empresas y ONGs:
 | 🛡️ Ciberseguridad y Auditorías      | WAF · SIEM · Hardening · Detección de anomalías|
 ---
 
-## 🧑‍💻 Fundador destacado: Abdel Kerim
-
-![Abdel](https://github-readme-stats.vercel.app/api?username=Abdl-kerim&show_icons=true&theme=radical&bg_color=76,381a06,a5150d&title_color=fff&text_color=fff)
-
-> "El software libre y bien hecho es un acto de amor a la humanidad."  
-
----
-
 ## 🧠 Tecnologías dominadas
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php)
@@ -50,13 +42,6 @@ Ofrecemos soluciones digitales completas para particulares, empresas y ONGs:
 [![Instagram](https://img.shields.io/badge/-Instagram%20(Empresa)-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
 
 🌐 [Sitio web oficial](https://www.emeritacode.com)
-
----
-
-## 🌱 Siempre creciendo
-
-> Siempre hay algo nuevo que aprender.  
-> Siempre hay alguien nuevo a quien ayudar.
 
 ---
 
