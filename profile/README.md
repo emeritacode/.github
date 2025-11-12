@@ -2,6 +2,15 @@
 
 ---
 
+
+## 📫 Contacto
+
+[![Instagram](https://img.shields.io/badge/-Instagram%20(Empresa)-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
+
+🌐 [Sitio web oficial](https://www.emeritacode.com)
+
+---
+
 ## 🌐 Servicios
 
 Ofrecemos soluciones digitales completas para particulares, empresas y ONGs:
@@ -31,15 +40,6 @@ Ofrecemos soluciones digitales completas para particulares, empresas y ONGs:
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana)
 
----
-
-## 📫 Contacto
-
-[![Instagram](https://img.shields.io/badge/-Instagram%20(Empresa)-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
-
-🌐 [Sitio web oficial](https://www.emeritacode.com)
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:a5150d,100:381a06&height=120&section=footer)
 
