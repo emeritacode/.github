@@ -1,7 +1,7 @@
 ![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:381a06,10:a5150d&height=200&section=header&text=AnonWebs&fontSize=50&fontAlignY=35&descAlignY=60&animation=fadeIn)
 
 
-[![Instagram](https://img.shields.io/badge/-Instagram%20(Empresa)-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/anonwebs_official)
+[![Instagram](https://img.shields.io/badge/-Instagram%20()-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/anonwebs_official)
 
 🌐 [anonwebs.com](https://www.anonwebs.com)
 
